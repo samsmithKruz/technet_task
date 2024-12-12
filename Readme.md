@@ -1,3 +1,4 @@
+![MyOrgChart (2)](https://github.com/user-attachments/assets/861f60d2-bbc4-4c9d-9b23-bffc94e9f5bb)
 # Interactive Organization Chart
 This project allows you to create and display an interactive organization chart using PHP, JavaScript, and a MySQL database.
 
