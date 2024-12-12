@@ -68,7 +68,7 @@ PHP;
                     echo "Migration applied: $migration\n";
                 } catch (Exception $e) {
                     $this->rollbackTransaction();
-                    echo "Failed to apply migration: $migration\n";
+                    // echo "Failed to apply migration: $migration\n";
                     echo $e->getMessage() . "\n";
                 }
             }
