@@ -10,15 +10,18 @@ This project allows you to create and display an interactive organization chart 
 ```bash
 https://github.com/samsmithKruz/technet_task.git
 ```
+
 2. **Install Dependencies:**
 Navigate to the project directory and run:
 ```bash
 cd technet_task # navigate to the Project Folder
 composer install
 ```
+
 3. **Create database and user**
 Create a MySQL database named org_chart and a user with appropriate permissions to access it.
-4. **Update configuration:**
+
+5. **Update configuration:**
 Edit the file php/config.php and update the database connection details:
 ```bash
 $db_host = 'localhost';
@@ -27,6 +30,7 @@ $db_user = 'your_username';
 $db_password = 'your_password';
 ```
 *Replace the placeholders with your actual database credentials.*
+
 5. **Migrate and seed data:**
 ```bash
 cd php/database #from project root
