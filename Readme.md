@@ -49,4 +49,4 @@ php -S localhost:8000
 Open your web browser and navigate to http://localhost:8000. You should see the interactive organization chart displayed.
 
 ***
-*You can add more users via the http://localhost:8000/api/createEmployee*
+*You can add more users via the http://localhost:8000/api/fakeEmployee*
