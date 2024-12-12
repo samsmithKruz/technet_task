@@ -8,12 +8,12 @@ This project allows you to create and display an interactive organization chart 
 ## Installation
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/org-chart.git
+https://github.com/samsmithKruz/technet_task.git
 ```
 2. **Install Dependencies:**
 Navigate to the project directory and run:
 ```bash
-cd org-chart # navigate to the Project Folder
+cd technet_task # navigate to the Project Folder
 composer install
 ```
 3. **Create database and user**
